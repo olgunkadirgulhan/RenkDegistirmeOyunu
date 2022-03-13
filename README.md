@@ -1,7 +1,7 @@
 # RenkDegistirmeOyunu
 
 
-* Merhaba,  Olgun Kadir Gülhan  bugun sizlerle Renk değiştirme oyunumu paylaşacağım 
+* Merhaba, biz Olgun Kadir Gülhan ve Burak Yurttaşer, bugun sizlerle Renk değiştirme oyunumuzu paylaşacağız.
 
 
 #### Oyun içeriği
@@ -11,5 +11,10 @@
 #### Oyun Bilgileri
 
 * Oyun motoru olarak Unity kullanacağız ,  oyun c# dili ile Visual Studio  da yazılacaktır
-#### Oyun içi görseller
+#### Oyun içi tahmini görseller
 
+![Octocat][img2] ![Octocat][img1]
+
+
+[img1]:https://cdn.kiz10.com/upload/thumbnails/1462480466_color-switch.png
+[img2]:https://img.tamindir.com/resize/300x350/ti_e_ul/VolkanYilmazz/p/color-switch_3_507x900.png
